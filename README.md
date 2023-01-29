@@ -1,6 +1,6 @@
-# threejs-fundamentals
+# Three.js-fundamentals
 
-This is the repo for my Three-js Fundamentals series published on my [YouTube channel](https://www.youtube.com/channel/UCJUzPxH0xLf7steekQucyxQ).
+This is the repo for my Three.js Fundamentals series published on my [YouTube channel](https://www.youtube.com/channel/UCJUzPxH0xLf7steekQucyxQ).
 
 The setup for this repo follows a simple principle: it should be as beginner friendly as possible.
 
