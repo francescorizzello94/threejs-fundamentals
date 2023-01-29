@@ -7,6 +7,8 @@ The setup for this repo follows a simple principle: it should be as beginner fri
 For this reason, I have chosen to avoid creating branches for every sub-repo so that when the main repo is cloned, the user immediately has access to all the existing sub-repos and does not have to worry about learning how to use git branch commands first.
 It is not the most efficient approach, but I believe it to be more conducive to an enjoyable learning experience for someone who wants to get started with three.js without having to worry about anything else apart from the code.
 
+[This repo]() is the starting point for Box geometries.
+
 
 <!-- GETTING STARTED -->
 ## Getting Started
