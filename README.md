@@ -2,10 +2,18 @@
 
 This is the repo for my Three.js Fundamentals series published on my [YouTube channel](https://www.youtube.com/channel/UCJUzPxH0xLf7steekQucyxQ).
 
+## Guiding principles
+
 The setup for this repo follows a simple principle: it should be as beginner friendly as possible.
 
-For this reason, I have chosen to avoid creating branches for every sub-repo so that when the main repo is cloned, the user immediately has access to all the existing sub-repos and does not have to worry about learning how to use git branch commands first.
+For this reason, I have chosen to avoid creating branches for every sub-repo so that when the main repo is cloned, the user immediately has access to all the existing sub-repos and does not have to worry about learning how to use git branch commands first.<br />
 It is not the most efficient approach, but I believe it to be more conducive to an enjoyable learning experience for someone who wants to get started with three.js without having to worry about anything else apart from the code.
+
+## Structure
+
+The repo follows an approach structured around geometry types.<br />
+The basic setup files for every geometry are not indexed (e.g. `boxgeometry`). <br /> The idea is that you may want to grab the folder and tinker with the code yourself and devise your own features. You are encouraged to follow along and learn from the further features I add to my code and compare them against your own, of course.<br />
+Any further files pertaining to a basic geometry type are then indexed (e.g. `1_boxgeometry_dat.GUI`).
 
 [This repo]() is the starting point for Box geometries.
 
